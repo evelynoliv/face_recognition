@@ -1,3 +1,3 @@
-# Face Regonition
+# Face Recognition
 
-## Face regonition using Python.
+## Face recognition using Python.
